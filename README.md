@@ -1,6 +1,6 @@
 
 # Project Title
-Password strength checker app using basic HTML,CSS,Javascript.
+Sneaker ecommerce app using basic HTML,CSS,Javascript.
 
 Wanna build simple sneaker based E-commerce website , I got yaa!!
  
